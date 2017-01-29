@@ -1,0 +1,15 @@
+Project :  Palmistry
+Developer : 
+Sumit Bansal    12103530
+Vrishti Gahlaut 12103528
+Aman Singhal    12103509
+
+
+
+Instruction : 
+
+- Download Python 2.7
+- Set the Path of python globally .
+
+- Open Code folder .
+- Run Palmistry.py file .
